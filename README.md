@@ -12,7 +12,7 @@
 $ git clone git@github.com:linyuxuanlin/Resources_for_Robotics.git
 ```
 
-获取更新：
+拉取更新：
 ```
 $ git pull
 ```
