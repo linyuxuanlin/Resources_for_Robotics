@@ -15,6 +15,6 @@ $ git clone git@github.com:linyuxuanlin/Resources_for_Robotics.git
 ```
 $ git pull
 ```
-
-如何使用 Git?
+ 
+如何使用 Git?  
 可参考 [**Git 学习笔记**](https://wiki-power.com/#/post/Git&GitHub/Git%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
