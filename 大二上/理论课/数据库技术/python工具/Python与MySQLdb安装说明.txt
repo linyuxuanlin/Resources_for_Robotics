@@ -1,0 +1,4 @@
+1、安装python，注意勾选将python添加到环境变量选项，否则后面安装Mysqldb模块时会出现无法使用pip命令的错误
+2、将文件mysqlclient-1.4.6-cp37-cp37m-win_amd64.whl拷贝到Python安装目录下的Scripts目录下，在文件位置打开cmd命令，
+   执行pip install MySQL_python-1.2.5-cp27-none-win_amd64.whl
+3、验证，python(command line)输入import MySQLdb，没报错，说明安装成功。
